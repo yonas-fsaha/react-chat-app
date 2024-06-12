@@ -15,7 +15,7 @@ This is a realtime chatting application developed using React.js, Node.js & Sock
 - Receive Messages
 - Include Emojis in your messages
 - See online users in a room
-
+- 
 ## 🏃‍ Local Installation
 
 1. Drop a ⭐ on the Github Repository.
