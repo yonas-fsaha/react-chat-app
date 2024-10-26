@@ -97,4 +97,5 @@ const Chat = ({ location }) => {
   );
 };
 
+// this contains all the chart part
 export default Chat;
